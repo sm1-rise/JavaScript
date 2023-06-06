@@ -1,8 +1,8 @@
 // Variáveis
 
 // Use o comando let pra criar a variavel e o = atribuir um valor.
-let nome = "Hendy"; // String/Texto, sempre entre aspas
-let idade = 27; // Numerico
+let nome = "Samuel"; // String/Texto, sempre entre aspas
+let idade = 18; // Numerico
 let brasileiro = true; // Boolean, verdadeiro(true) ou Falso(false)
 
 
@@ -11,7 +11,7 @@ let brasileiro = true; // Boolean, verdadeiro(true) ou Falso(false)
 // console.log(idade);
 
 // atribuindo um novo valor a variavel
-nome = "Hendy Almeida";
+nome = "Samuel Martins";
 
 // imprimindo o valor atualizado
 // console.log(nome);
